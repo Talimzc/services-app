@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Steps
+
+### `npm run server`
+
+For open json-server in port 4000
+
+### `npm run start`
+
+Developer mode
+
 ## Available Scripts
 
 In the project directory, you can run:
